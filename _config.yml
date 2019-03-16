@@ -17,4 +17,4 @@ github_username:  sherbook
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-minima: jekyll-theme-cayman
+title: jekyll-theme-cayman
