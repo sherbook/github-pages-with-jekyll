@@ -1,7 +1,4 @@
----
-title: "title"
-date: 2019-03-16
----
+
 title: Your awesome title
 author: GitHub User
 email: your-email@domain.com
@@ -10,6 +7,10 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
   someting awesome and exciting
+  ---
+  title: "title"
+  date: 2019-03-16
+  ---
 
 # social links
 twitter_username: cant find
